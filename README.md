@@ -1,4 +1,4 @@
-# Azure Azure AI Engineer Associate - Study Notes
+# Microsoft Certified: Azure Azure AI Engineer Associate - Study Notes
 ## Designing and Implementing a Microsoft Azure AI Solution
 
 **Study Notes for Microsoft Azure AI Engineer Associate Examination (AI-102)**  
