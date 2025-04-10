@@ -1,12 +1,14 @@
 # Microsoft Certified: Azure Azure AI Engineer Associate - Study Notes
 ## Designing and Implementing a Microsoft Azure AI Solution
 
+![Alt text](images/banner.png)
+
 **Study Notes for Microsoft Azure AI Engineer Associate Examination (AI-102)**  
 - Sharing the notes that I used as part of my revision for the AI-102 exam (passed on [first attempt](https://learn.microsoft.com/api/credentials/share/en-us/KennethLeung-5704/69A89CC4F0578129?sharingId=90CA02B9FB836262) in Jan 2025)
 - Compilations based on self-directed lessons from [Microsoft Learn - Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/training/courses/ai-102t00#course-syllabus)
 
 
-
+___
 ### Overview
 As a Microsoft Azure AI engineer, you build, manage, and deploy AI solutions that leverage Azure AI.
 
@@ -23,6 +25,7 @@ You work with solution architects to translate their vision. You also work with 
 - Build complete and secure end-to-end AI solutions.
 - Integrate AI capabilities in other applications and solutions.
 
+___
 ## Notes Structure
 - [**Learning Path 1: Get started with Azure AI Services**](https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes/tree/main/1%20-%20Get%20started%20with%20Azure%20AI%20Services)
     - Azure AI Services is a collection of services that are building blocks of AI functionality you can integrate into your applications. 
@@ -38,11 +41,12 @@ You work with solution architects to translate their vision. You also work with 
 - [**Learning Path 6: Develop Generative AI solutions with Azure OpenAI Service**](https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes/tree/main/6%20-%20Develop%20Generative%20AI%20solutions%20with%20Azure%20OpenAI%20Service)
     - Azure OpenAI Service provides access to OpenAI's powerful large language models such as GPT and Embeddings models. These models enable various natural language processing (NLP) solutions to understand, converse, and generate content. Users can access the service through REST APIs, SDKs, and Azure AI Foundry.
 
+___
 ## Course Synopsis
 This course was designed for software engineers concerned with building, managing and deploying AI solutions that leverage Azure AI Services, Azure AI Search, and Azure OpenAI. 
 
 They are familiar with C# or Python and have knowledge on using REST-based APIs to build computer vision, language analysis, knowledge mining, intelligent search, and generative AI solutions on Azure.
 
-
+___
 ## References
 Study Guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
