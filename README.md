@@ -2,7 +2,10 @@
 ## Designing and Implementing a Microsoft Azure AI Solution
 
 **Study Notes for Microsoft Azure AI Engineer Associate Examination (AI-102)**  
-Compilations based on self-directed lessons from [Microsoft Learn - Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/training/courses/ai-102t00#course-syllabus)
+- Sharing the notes that I used as part of my revision for the AI-102 exam (passed on [first attempt](https://learn.microsoft.com/api/credentials/share/en-us/KennethLeung-5704/69A89CC4F0578129?sharingId=90CA02B9FB836262))
+- Compilations based on self-directed lessons from [Microsoft Learn - Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/training/courses/ai-102t00#course-syllabus)
+
+
 
 ### Overview
 As a Microsoft Azure AI engineer, you build, manage, and deploy AI solutions that leverage Azure AI.
