@@ -48,5 +48,10 @@ This course was designed for software engineers concerned with building, managin
 They are familiar with C# or Python and have knowledge on using REST-based APIs to build computer vision, language analysis, knowledge mining, intelligent search, and generative AI solutions on Azure.
 
 ___
+## To-Do
+- Resolve formatting of code blocks on some PDFs
+- Make table of contents clickable on PDFs
+
+___
 ## References
 Study Guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
